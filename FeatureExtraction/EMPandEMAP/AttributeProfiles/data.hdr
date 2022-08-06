@@ -1,0 +1,8 @@
+ENVI 
+description = { 
+Exported from MATLAB} 
+samples = 145 
+lines   = 145 
+bands   = 20 
+data type = 4 
+interleave = bsq 
